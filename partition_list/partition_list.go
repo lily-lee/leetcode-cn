@@ -1,4 +1,4 @@
-package main
+package partition
 
 /**
 面试题 02.04. 分割链表
@@ -29,26 +29,34 @@ type ListNode struct {
 }
 
 func partition(head *ListNode, x int) *ListNode {
-	nodeLeft := &ListNode{}
-	nodeRight := &ListNode{}
-	for {
-		if head == nil {
-			break
-		}
+	var nodeLeft, nodeRight *ListNode
+	for head != nil {
 		if head.Val < x {
-			nodeLeft.getTail().Next = &ListNode{Val: head.Val}
+			nodeLeft = build(nodeLeft, head.Val)
 		} else {
-			nodeRight.getTail().Next = &ListNode{Val: head.Val}
+			nodeRight = build(nodeRight, head.Val)
 		}
 		head = head.Next
 	}
-	nodeLeft.getTail().Next = nodeRight
+	if nodeLeft == nil {
+		return nodeRight
+	}
+	getTail(nodeLeft).Next = nodeRight
 	return nodeLeft
 }
 
-func (l *ListNode) getTail() *ListNode {
+func build(l *ListNode, val int) *ListNode {
+	if l == nil {
+		l = &ListNode{Val: val}
+	} else {
+		getTail(l).Next = &ListNode{Val: val}
+	}
+	return l
+}
+
+func getTail(l *ListNode) *ListNode {
 	if l.Next == nil {
 		return l
 	}
-	return l.Next.getTail()
+	return getTail(l.Next)
 }
