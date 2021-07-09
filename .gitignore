@@ -1,3 +1,4 @@
 .idea
 go.mod
 .DS_Store
+algorithms/*/*_test.go
