@@ -14,6 +14,7 @@
 | [8](./algorithms/0008)  |            [8. 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/)             | [Go](./algorithms/0008/main.go) |    中等    |
 | [9](./algorithms/0009)  |                      [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)                       | [Go](./algorithms/0009/main.go) |    简单    |
 | [11](./algorithms/0011) |              [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)              | [Go](./algorithms/0011/main.go) |    中等    |
+| [14](./algorithms/0014) |                 [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)                 | [Go](./algorithms/0014/main.go) |    简单    |
 | [79](./algorithms/0079) |                        [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)                        | [Go](./algorithms/0079/main.go) |    中等    |
 
 
