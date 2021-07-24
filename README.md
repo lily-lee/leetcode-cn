@@ -16,6 +16,7 @@
 |     [11](./algorithms/0011)     |              [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)              |  [Go](./algorithms/0011/main.go)   |    中等    |
 |     [14](./algorithms/0014)     |                 [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)                 |  [Go](./algorithms/0014/main.go)   |    简单    |
 |     [79](./algorithms/0079)     |                        [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)                        |  [Go](./algorithms/0079/main.go)   |    中等    |
+|    [263](./algorithms/0263)     |                         [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)                          |  [Go](./algorithms/0263/main.go)   |    简单    |
 | [offer47](./algorithms/offer47) |       [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)       | [Go](./algorithms/offer47/main.go) |    中等    |
 
 
