@@ -20,6 +20,7 @@
 |    [206](./algorithms/0206)     |                   [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                    |  [Go](./algorithms/0206/main.go)   |    简单    |
 |    [232](./algorithms/0232)     |             [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)             |  [Go](./algorithms/0232/main.go)   |    简单    |
 |    [263](./algorithms/0263)     |                         [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)                          |  [Go](./algorithms/0263/main.go)   |    简单    |
+|    [264](./algorithms/0264)     |                      [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)                       |  [Go](./algorithms/0264/main.go)   |    中等    |
 |    [704](./algorithms/0704)     |                      [704. 二分查找](https://leetcode-cn.com/problems/binary-search/)                       |  [Go](./algorithms/0704/main.go)   |    简单    |
 | [offer47](./algorithms/offer47) |       [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)       | [Go](./algorithms/offer47/main.go) |    中等    |
 
