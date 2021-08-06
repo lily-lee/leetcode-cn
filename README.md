@@ -15,6 +15,7 @@
 |     [9](./algorithms/0009)      |                      [9. 回文数](https://leetcode-cn.com/problems/palindrome-number/)                       |  [Go](./algorithms/0009/main.go)   |    简单    |
 |     [11](./algorithms/0011)     |              [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)              |  [Go](./algorithms/0011/main.go)   |    中等    |
 |     [14](./algorithms/0014)     |                 [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)                 |  [Go](./algorithms/0014/main.go)   |    简单    |
+|     [15](./algorithms/0015)     |                           [15. 三数之和](https://leetcode-cn.com/problems/3sum/)                            |  [Go](./algorithms/0015/main.go)   |    中等    |
 |     [79](./algorithms/0079)     |                        [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)                        |  [Go](./algorithms/0079/main.go)   |    中等    |
 |    [146](./algorithms/0146)     |                      [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)                       |  [Go](./algorithms/0146/main.go)   |    中等    |
 |    [206](./algorithms/0206)     |                   [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                    |  [Go](./algorithms/0206/main.go)   |    简单    |
