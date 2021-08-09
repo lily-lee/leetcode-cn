@@ -23,6 +23,7 @@
 |       [232](./algorithms/0232)        |             [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)             |    [Go](./algorithms/0232/main.go)    |    简单    |
 |       [263](./algorithms/0263)        |                         [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)                          |    [Go](./algorithms/0263/main.go)    |    简单    |
 |       [264](./algorithms/0264)        |                      [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)                       |    [Go](./algorithms/0264/main.go)    |    中等    |
+|       [413](./algorithms/0413)        |                  [413. 等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/)                   |    [Go](./algorithms/0413/main.go)    |    中等    |
 |       [704](./algorithms/0704)        |                      [704. 二分查找](https://leetcode-cn.com/problems/binary-search/)                       |    [Go](./algorithms/0704/main.go)    |    简单    |
 |       [746](./algorithms/0746)        |            [746. 使用最小花费爬楼梯](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)            |    [Go](./algorithms/0746/main.go)    |    简单    |
 |       [1137](./algorithms/1137)       |             [1137. 第 N 个泰波那契数](https://leetcode-cn.com/problems/n-th-tribonacci-number/)             |    [Go](./algorithms/1137/main.go)    |    简单    |
