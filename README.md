@@ -16,10 +16,13 @@
 |        [11](./algorithms/0011)        |              [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)              |    [Go](./algorithms/0011/main.go)    |    中等    |
 |        [14](./algorithms/0014)        |                 [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)                 |    [Go](./algorithms/0014/main.go)    |    简单    |
 |        [15](./algorithms/0015)        |                           [15. 三数之和](https://leetcode-cn.com/problems/3sum/)                            |    [Go](./algorithms/0015/main.go)    |    中等    |
+|        [53](./algorithms/0053)        |                    [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)                     |    [Go](./algorithms/0053/main.go)    |    简单    |
 |        [70](./algorithms/0070)        |                       [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                       |    [Go](./algorithms/0070/main.go)    |    简单    |
 |        [79](./algorithms/0079)        |                        [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)                        |    [Go](./algorithms/0079/main.go)    |    中等    |
+|        [88](./algorithms/0088)        |                [88. 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/)                 |    [Go](./algorithms/0088/main.go)    |    简单    |
 |       [146](./algorithms/0146)        |                      [146. LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache/)                       |    [Go](./algorithms/0146/main.go)    |    中等    |
 |       [206](./algorithms/0206)        |                   [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)                    |    [Go](./algorithms/0206/main.go)    |    简单    |
+|       [217](./algorithms/0217)        |                  [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/)                  |    [Go](./algorithms/0217/main.go)    |    简单    |
 |       [232](./algorithms/0232)        |             [232. 用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/)             |    [Go](./algorithms/0232/main.go)    |    简单    |
 |       [263](./algorithms/0263)        |                         [263. 丑数](https://leetcode-cn.com/problems/ugly-number/)                          |    [Go](./algorithms/0263/main.go)    |    简单    |
 |       [264](./algorithms/0264)        |                      [264. 丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/)                       |    [Go](./algorithms/0264/main.go)    |    中等    |
