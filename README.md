@@ -16,6 +16,7 @@
 |        [11](./algorithms/0011)        |              [11. 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/)              |    [Go](./algorithms/0011/main.go)    |    中等    |
 |        [14](./algorithms/0014)        |                 [14. 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/)                 |    [Go](./algorithms/0014/main.go)    |    简单    |
 |        [15](./algorithms/0015)        |                           [15. 三数之和](https://leetcode-cn.com/problems/3sum/)                            |    [Go](./algorithms/0015/main.go)    |    中等    |
+|        [21](./algorithms/0021)        |              [21. 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)               |    [Go](./algorithms/0021/main.go)    |    简单    |
 |        [53](./algorithms/0053)        |                    [53. 最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)                     |    [Go](./algorithms/0053/main.go)    |    简单    |
 |        [70](./algorithms/0070)        |                       [70. 爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)                       |    [Go](./algorithms/0070/main.go)    |    简单    |
 |        [79](./algorithms/0079)        |                        [79. 单词搜索](https://leetcode-cn.com/problems/word-search/)                        |    [Go](./algorithms/0079/main.go)    |    中等    |
